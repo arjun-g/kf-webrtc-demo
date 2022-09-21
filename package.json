@@ -1,0 +1,24 @@
+{
+  "name": "kf-webrtc-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arjun-g/kf-webrtc-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arjun-g/kf-webrtc-demo/issues"
+  },
+  "homepage": "https://github.com/arjun-g/kf-webrtc-demo#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "socket.io": "^4.5.2"
+  }
+}
